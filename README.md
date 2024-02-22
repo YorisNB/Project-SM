@@ -1,5 +1,4 @@
-# ProjectSolvay
-
+# Project Stocket Market Analysis  
 Prerequisites - Data Extraction
 
 For this project, you will need to extract information from the Finnhub API on 10 companies: 5 will be from the GAFAM (Google, Amazon, Facebook, Apple, and Microsoft), and 5 will be specified in an accompanying document. Therefore, it's necessary to have an account on Finnhub linked to your ULB email address.
